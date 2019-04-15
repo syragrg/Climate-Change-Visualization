@@ -51,6 +51,7 @@ Data Integrity | Coherence| Audience
  3 | 2 | 3
 
 ### Chart 4:
+Global temperature changes since pre-industrial times
 
 ![](https://github.com/syragrg/ClimateChange-SelfStudyProject/blob/master/ChartsAssessed/chart%204.png?raw=true)
 [6]
@@ -75,7 +76,7 @@ Data Integrity | Coherence| Audience
 
 ## Conclusion
 
-Out of the 5 graphs, the 3rd and the 5th graph makes use of visualization in the most effective manner. It is very simple, but informative, and the story it tells is very clear. 
+Out of the 5 graphs, the 3rd and the 5th graph makes use of visualization in the most effective manner. Both of them are simple, making it easy to internalize. At the same time, the illustrations are also concise and informative, fulfilling the purpose of the graphs very clearly. 
 
 ## References
 
