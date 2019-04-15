@@ -13,23 +13,18 @@ The framework consists of three key categories and it will be rated from 1 to 3,
 
 3. **Audience:** The overall visualization is easy to comprehend. To consider the effectiveness, factors such as, font size, colors utilized (e.g. color-blind friendly), interpretive title, data-ink ratio, dimensions, acronym used, time taken to understand the chart(relative). [1]
 
-## Assessment
+# **Assessment**
 ### Chart 1: 
 Mapping global temperature change
 
 ![](https://github.com/syragrg/ClimateChange-SelfStudyProject/blob/master/ChartsAssessed/chart1.png?raw=true)
 [3]
 
-
 The chart title simply states, “Mapping global temperature changes: every year from 1850 to 2017” without further information if there has been an increase or decrease, but the color utilized makes it easy to understand that in the recent years the temperature has increased. The x axis is not labelled yet one can still somewhat interpret that the next point refers to the next year. However, it is not easy to see each year and the temperature for a specific region as the image is too small, thus, it would have been better to use a different form of visualization.
-
-
-
 
 Data Integrity | Coherence| Audience
 ------------ | ------------- | -------------
  3 | 1 | 2
- 
  
 ### Chart 2:
 Increases and decreases in global temperature during the naturally occurring ice ages of the past 800,000 years, ending with the early twentieth century
@@ -60,23 +55,27 @@ Data Integrity | Coherence| Audience
 ![](https://github.com/syragrg/ClimateChange-SelfStudyProject/blob/master/ChartsAssessed/chart%204.png?raw=true)
 [6]
 
-
+The graph illustrates the changes in global temperature by month. The graph looks like tangled spaghetti and it is difficult to follow a single line. While the graph is informative, it is not easy to read and looks messy, which could be off-putting for the audience. It would also be better to have a more visible line at point 0. 
 
 Data Integrity | Coherence| Audience
 ------------ | ------------- | -------------
- 3 | 1 | 2
+ 3 | 2 | 1
 
 ### Chart 5:
+CO2 levels during the last three glacial cycles, as reconstructed from ice cores
 
-![](
+![](https://github.com/syragrg/ClimateChange-SelfStudyProject/blob/master/ChartsAssessed/chart5.png?raw=true)
 [7]
+
+Data is presently clearly and the visualization itself is very clean and easy to read. It is very coherent and clearly tells the audience that CO2 level is higher than ever recorded. It would be good to show what the average level of CO2 level is to provide more insight on the CO2 level over the years. 
 
 Data Integrity | Coherence| Audience
 ------------ | ------------- | -------------
-  |  | 
+ 3 |2  | 3
 
 ## Conclusion
 
+Out of the 5 graphs, the 3rd and the 5th graph makes use of visualization in the most effective manner. It is very simple, but informative, and the story it tells is very clear. 
 
 ## References
 
@@ -91,9 +90,9 @@ Data Integrity | Coherence| Audience
 
 [5] Roston, Eric, and Blacki Migliozzi. Bloomberg, 24 June 2015, www.bloomberg.com/graphics/2015-whats-warming-the-world/.
 
-[6] Yulsman, Tom. Discover, 10 May 2016, blogs.discovermagazine.com/imageo/2016/05/10/spiraling-global-warming/#.XLFak-tKhAY.
+[6] Hawkins, Ed. Climate Lab Book, 11 Apr. 2016, http://www.climate-lab-book.ac.uk/2016/global-temperature-changes-since-1850/
 
-[7]
+[7] NASA Global Climate Change, Mar. 2019, climate.nasa.gov/vital-signs/carbon-dioxide/.
 
 
 
